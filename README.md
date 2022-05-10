@@ -1,5 +1,5 @@
 # -Project-in-Machine-Learning
-In this project we took a database of crimes in chicago, with data such as: kind of crime, time the crime happened, Whether the criminal was arrested or not, location of the crime.
+In this project we took a dataset of crimes in chicago, with data such as: kind of crime, time the crime happened, Whether the criminal was arrested or not, location of the crime.
 
 We used 4 different methods such as adaboost, svm, knn, logistic regression.
 
